@@ -1,3 +1,9 @@
+"""One Word From Grandma — entry word "Terminator".
+
+Grandma's word for the moment something unstoppable walks in: she doesn't
+run, she just names it — "Terminator" — and keeps stirring the pot.
+"""
+
 import os
 
 word = "Terminator"
